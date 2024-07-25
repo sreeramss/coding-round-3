@@ -2,6 +2,8 @@
 
 Welcome to the Wellness Retreats platform! This is a responsive web page that displays a list of available retreats, allowing users to filter them by date and type. The project is built with React and styled using TailwindCSS.
 
+![image](https://github.com/user-attachments/assets/3a893e16-3a6c-4d46-a3d1-9c4e989e4c54)
+
 ## Features
 
 - Single-page layout using React
