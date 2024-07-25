@@ -20,7 +20,7 @@ To set up and run the application locally, follow these steps:
 1. **Clone the repository:**
    ```bash
    git clone https://github.com/sreeramss/coding-round-3
-   cd wellness-retreats
+   cd coding-round-3
    npm install
    npm start
 
